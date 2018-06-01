@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "EVO3",
+            "server": "http://localhost",
+            "serverInstance": "NAV2018_CU5_19394_EVO3",
+            "authentication": "Windows",
+            "startupObjectId": 22
+        }
+    ]
+}
